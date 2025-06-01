@@ -52,6 +52,7 @@ Traditional encryption methods offer a level of protection but are not entirely 
 ### 🐍 Python Dependencies
 
 ```bash
+pyhton==3.7
 pip install ipfsapi==0.4.4
 pip install requests==2.28.1
 pip install eciespy
