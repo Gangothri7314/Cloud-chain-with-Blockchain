@@ -55,3 +55,7 @@ Traditional encryption methods offer a level of protection but are not entirely 
 pip install ipfsapi==0.4.4
 pip install requests==2.28.1
 pip install eciespy
+pip install web3
+pip install urlib
+pip install boto3
+pip install django
